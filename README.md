@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Adavance Data Visualizations**
 
-- 👯 I have completed my research on [Utilizing Machine Learning Models to Determine the Security Level of Different Cryptosystems](https://ieeexplore.ieee.org/document/10125757)
+- 👯 I have completed my research on [Diagnosing and Resolving Android Applications
+Building Issues: An Empirical Study] , [Utilizing Machine Learning Models to Determine the Security Level of Different Cryptosystems](https://ieeexplore.ieee.org/document/10125757)
 
 - Completed a mini project on heart disease prediction using machine learning at HCL Technologies. [Heart Disease Prediction using Machine Learning](https://github.com/bodepudipriya/heartdiseaseprediction)
 
